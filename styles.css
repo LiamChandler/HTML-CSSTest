@@ -1,0 +1,178 @@
+
+.Local-trusted-pet {
+  width: 21.531rem;
+  height: 3.188rem;
+  margin: 0.313rem auto 2.188rem auto;
+  font-family: Quicksand;
+  font-size: 0.75rem;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.42;
+  letter-spacing: normal;
+  text-align: center;
+  color: #5e6e66;
+}
+
+.Our-Services {
+  width: 8.594rem;
+  height: 1.75rem;
+  margin: 1.688rem auto 0.313rem auto;
+  font-family: Quicksand;
+  font-size: 1.406rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #36413c;
+}
+
+.centered
+{
+	display: block:
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.column {
+  float: left;
+  width: 28%;
+  padding: 0 20px;
+}
+
+.row 
+{
+	margin: 0 -5px;
+}
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.card 
+{
+	padding: 0 0 0.844rem;
+	border-radius: 4px;
+	box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+	background-color: #FFFFFF;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+.card img {
+  border-radius: 5px 5px 0 0;
+}
+
+.card h4
+{
+	margin: 0.781rem 5.719rem 0.313rem 0.781rem;
+	font-family: Quicksand;
+	font-size: 0.875rem;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #36413c;
+}
+
+.banner 
+{
+	width: 100%;
+	background-image: linear-gradient(to left, rgba(255, 255, 255, 0), var(--black) 35%);
+}
+.cardWords
+{
+	margin: 0.313rem 0.781rem 0.625rem;
+	font-family: Quicksand;
+	font-size: 0.563rem;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.44;
+	letter-spacing: normal;
+	color: #5e6e66;
+}
+
+.learnMore
+{
+	width: 3.125rem;
+	height: 0.719rem;
+	margin: 0.625rem 0.281rem 0 0.781rem;
+	font-family: Quicksand;
+	font-size: 0.563rem;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #de6c17;
+}
+
+.container 
+{
+  position: relative;
+}
+
+.bannerWords
+{
+	position: absolute;
+	top: 50%;
+	left: 30%;
+	transform: translate(-50%, -50%);
+}
+
+.Need-a-dog-sitter 
+{
+	font-family: Quicksand;
+	font-size: 1.406rem;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #FFFFFF;
+}
+
+.Find-a-trusted-sitte {
+	width: 18.25rem;
+	height: 2.125rem;
+	margin: 0.313rem 0 0.781rem 0.125rem;
+	font-family: Quicksand;
+	font-size: 0.75rem;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.42;
+	letter-spacing: normal;
+	color: #FFFFFF;
+}
+
+.Rectangle {
+  margin: 0.781rem 13.031rem 0 0.125rem;
+  padding: 0.406rem 1.031rem 0.375rem 1.063rem;
+  border-radius: 2px;
+  background-color: #de6c17;
+}
+
+.Learn-More {
+  width: 3.125rem;
+  height: 0.719rem;
+  font-family: Quicksand;
+  font-size: 0.563rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #FFFFFF;
+}
